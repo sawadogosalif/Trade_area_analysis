@@ -1,8 +1,10 @@
 # Technical Documentation for Section Trade Area Analysis
 
-# I. Component preparation for trade area analysis
 
-# II. Trade area analysis execution
+
+
+
+
 
 
 
