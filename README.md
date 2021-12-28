@@ -1,4 +1,4 @@
-# Technical Documentation for Section Trade Area Analysis
+# Technical Documentation for  Trade Area Analysis
 
 
 
