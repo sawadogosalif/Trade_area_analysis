@@ -20,14 +20,14 @@ Overlay the grid on top of the original territory GeoDataFrame
 
 
 
- -Prep hexagonal grid over a selected territory
+- Prep hexagonal grid over a selected territory
 
 - Prep hexagonal-based aggregations over the available external data sources
 
-- Worldpop data: Population data
-- OSM data: Point of interest data
-- Carto data: Consumer spending data & Socio-demographic data
-- Unacast data Pitney Bowes points of interest data
+  - Worldpop data: Population data
+  - OSM data: Point of interest data
+  - Carto data: Consumer spending data & Socio-demographic data
+  - Unacast data Pitney Bowes points of interest data
 
 
 ### Construct a single file with all hexagonal-based data(grid + aggregations)
