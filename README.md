@@ -30,18 +30,18 @@ Overlay the grid on top of the original territory GeoDataFrame
   - Unacast data Pitney Bowes points of interest data
 
 
-### Construct a single file with all hexagonal-based data(grid + aggregations)
+- Construct a single file with all hexagonal-based data(grid + aggregations)
 
-### Visualize the data
+- Visualize the data
 
-## Trade Area Analysis Execution
+# II. Trade Area Analysis Execution
 
-### Derive density
+## 1. Derive density
 
-### Derive urbanicity
+## 2. Derive urbanicity
 
-### Derive trade area distance
+## 3. Derive trade area distance
 
-### Form a dataset for further analysis
+## 4. Form a dataset for further analysis
 
-### Visualize the data
+## 5. Visualize the data
