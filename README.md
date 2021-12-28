@@ -14,8 +14,9 @@
 
 ## 1. Prepare a hexagonal grid over a selected territory
 
-Form a hexagonal grid - given a diameter for the hexagons to build and a GeoDataFrame on the territory
-Overlay the grid on top of the original territory GeoDataFrame
+- Form a hexagonal grid
+- Given a diameter for the hexagons to build and a GeoDataFrame on the territory
+- Overlay the grid on top of the original territory GeoDataFrame
 
 
 ## 2. **Component Preparation for Trade Area Analysis**
