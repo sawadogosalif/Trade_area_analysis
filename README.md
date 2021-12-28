@@ -36,12 +36,12 @@ Overlay the grid on top of the original territory GeoDataFrame
 
 # II. Trade Area Analysis Execution
 
-## 1. Derive density
+- 1. Derive density
 
-## 2. Derive urbanicity
+- 2. Derive urbanicity
 
-## 3. Derive trade area distance
+- 3. Derive trade area distance
 
-## 4. Form a dataset for further analysis
+- 4. Form a dataset for further analysis
 
-## 5. Visualize the data
+- 5. Visualize the data
