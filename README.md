@@ -6,26 +6,28 @@
 
 
 
+
+
 # I. Component preparation for trade area analysis
 
-1. Prepare a hexagonal grid over a selected territory
+## 1. Prepare a hexagonal grid over a selected territory
 
 Form a hexagonal grid - given a diameter for the hexagons to build and a GeoDataFrame on the territory
 Overlay the grid on top of the original territory GeoDataFrame
 
 
-2. **Component Preparation for Trade Area Analysis**
+## 2. **Component Preparation for Trade Area Analysis**
 
 
 
-### Prep hexagonal grid over a selected territory
+ -Prep hexagonal grid over a selected territory
 
-### Prep hexagonal-based aggregations over the available external data sources
+- Prep hexagonal-based aggregations over the available external data sources
 
-#### Worldpop data: Population data
-#### OSM data: Point of interest data
-#### Carto data: Consumer spending data & Socio-demographic data
-#### Unacast data Pitney Bowes points of interest data
+- Worldpop data: Population data
+- OSM data: Point of interest data
+- Carto data: Consumer spending data & Socio-demographic data
+- Unacast data Pitney Bowes points of interest data
 
 
 ### Construct a single file with all hexagonal-based data(grid + aggregations)
